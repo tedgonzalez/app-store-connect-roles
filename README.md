@@ -4,23 +4,23 @@
 |---------------------------------------------------------------|-----------|-----------------------------|------------|------------------------------|-------|
 | **App Features**                                              |           |                             |            |                              |       |
 | Upload Builds                                                 | ✅        | ✅                           | ✅         | ✅                            | ✅    |
-| Edit App Store Details (Read)                                 | ✅        | ✅                           | ✅         | ✅                            | ✅    |
+| Edit App Store Details (**Read**)                                 | ✅        | ✅                           | ✅         | ✅                            | ✅    |
 | Create Apps and Submit Versions                               |           |                             | ✅          | ✅                           | ✅     |
-| Edit App Store Details (Write)                                |           |                             | ✅          | ✅                           | ✅     |
+| Edit App Store Details (**Write**)                                |           |                             | ✅          | ✅                           | ✅     |
 | Manage Promo Codes and Promo Art                              |           |                             | ✅          | ✅                           | ✅     |
-| Manage TestFlight Builds (Read)                               | ✅        | ✅                           | ✅          | ✅                           | ✅     |
-| Manage TestFlight Builds (Write)                              |           |                             | ✅          | ✅                           | ✅     |
-| Manage TestFlight Testers (Internal Only)   (Read Only)       | ✅        | ✅                           | ✅          | ✅                           | ✅     |
-| Manage TestFlight Testers (Write)                             |           |                             | ✅          | ✅                           | ✅     |
+| Manage TestFlight Builds (**Read**)                               | ✅        | ✅                           | ✅          | ✅                           | ✅     |
+| Manage TestFlight Builds (**Write**)                              |           |                             | ✅          | ✅                           | ✅     |
+| Manage TestFlight Testers (**Internal Only**)   (**Read Only**)       | ✅        | ✅                           | ✅          | ✅                           | ✅     |
+| Manage TestFlight Testers (**Write**)                             |           |                             | ✅          | ✅                           | ✅     |
 | Edit App Pricing and Availability                             |           |                             | ✅          | ✅                           | ✅     |
 | Submit In-App Purchases                                       |           |                             | ✅          | ✅                           | ✅     |
 | Create In-App Purchases                                       | ✅        | ✅                           | ✅          | ✅                           | ✅     |
-| Edit In-App Purchases (Read Only)                             | ✅        | ✅                           | ✅          | ✅                           | ✅     |
-| Edit In-App Purchases (Write)                                 |           |                             | ✅          | ✅                           | ✅     |
+| Edit In-App Purchases (**Read Only**)                             | ✅        | ✅                           | ✅          | ✅                           | ✅     |
+| Edit In-App Purchases (**Write**)                                 |           |                             | ✅          | ✅                           | ✅     |
 | Manage Game Center                                            | ✅        | ✅                           | ✅          | ✅                           | ✅     |
 | Manage Leaderboard Scores                                     |           |                             | ✅          | ✅                           | ✅     |
-| Reply to and Edit Responses to Customer   Reviews (Read Only) | ✅         | ✅                          | ✅          | ✅                           | ✅     |
-| Reply to and Edit Responses to Customer   Reviews (Write)     |           |                             |             |                             | ✅     |
+| Reply to and Edit Responses to Customer   Reviews (**Read Only**) | ✅         | ✅                          | ✅          | ✅                           | ✅     |
+| Reply to and Edit Responses to Customer   Reviews (**Write**)     |           |                             |             |                             | ✅     |
 | Reset App Summary Rating                                      |           |                             | ✅          | ✅                           | ✅     |
 | View Crash and Energy Reports in Xcode   Organizer            | ✅         | ✅                          | ✅          | ✅                           | ✅     |
 | View App Analytics                                            |           |                             |            |                              | ✅     |
